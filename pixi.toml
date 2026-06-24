@@ -26,3 +26,5 @@ meeko = ">=0.7.1, <0.8"
 gemmi = ">=0.7.5, <0.8"
 torch = ">=2.11.0, <3"
 torchvision = ">=0.26.0, <0.27"
+molscrub = { git = "https://github.com/forlilab/molscrub.git" }
+auto3d = { git = "https://github.com/isayevlab/Auto3D_pkg.git" }

@@ -5,6 +5,13 @@ testing_*
 environment.yml
 gen.tsv
 .pixi
+workflow_output
+*.tsv
+Plots
+Structures/binding_site_water
+Structures/Scharf_et_al_2025_structures
+*.pse
+.DS_Store
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
