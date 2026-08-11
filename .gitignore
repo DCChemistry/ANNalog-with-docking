@@ -12,7 +12,7 @@ Structures/binding_site_water
 Structures/Scharf_et_al_2025_structures
 *.pse
 .DS_Store
-results
+results*
 local_results
 
 # Byte-compiled / optimized / DLL files
