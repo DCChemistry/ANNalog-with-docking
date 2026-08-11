@@ -9,3 +9,9 @@ Using the [pixi package manager](https://github.com/prefix-dev/pixi), simply typ
 ```
 pixi install
 ```
+
+# Repository structure
+- The structures tested and used in this work are in the `Structure` directory. The structure used in the MSc thesis is `refined_cnr2_human_5ZTY_inactive.pdb`. 
+- The `redocking_active.ipynb` and `redocking_inactive.ipynb` files are the notebooks used for redocking cognate ligands for the refined structures from the GPCRdb of an inactive CB2 structure (PDB ID: 5ZTY) and active structure (PDB ID: 8GUR).
+- The notebook used to develop and run the generation-docking workflow is `workflow_development.ipynb`.
+- The `known_cb2_ligands` directory contains .`csv` files that contains information on known CB2 ligands from the ChEMBL database. The files used to build the known ligand set used for analysis in the MSc thesis are `CHEMBL253_CB2_Homo_sapiens_IC50_170726.csv` and `CHEMBL253_CB2_Homo_sapiens_Ki_140726.csv`, so as to focus on antagonists like the 5ZTY cognate ligand, AM10257, which is a potent CB2 antagonist.
