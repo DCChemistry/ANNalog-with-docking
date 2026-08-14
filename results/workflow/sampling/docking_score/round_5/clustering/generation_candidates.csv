@@ -1,0 +1,6 @@
+smiles,docking_energy
+Cc1c(C(=O)N[C@@]23C[C@@H]4C[C@@H](C[C@@H](C4)C2=O)C3)cn([C@H](C)c2ccccc2Cl)c1-c1ccccc1,-14.58
+Cc1c(C(=O)N[C@@]23C[C@@H]4C[C@@H](C[C@H]2C4)C3=O)cn([C@@H](C)Cc2ccccc2)c1-c1ccccc1,-14.085
+Cc1c(C(=O)N[C@]23C[C@H]4C[C@H](C[C@H](C4)C2)C3)nn(Cc2ccc3c(c2)OCO3)c1-c1ccccc1,-14.072
+Cc1c(C(=O)N[C@]23C[C@H]4C[C@H](C[C@H](C4)C2)C3)cn(Cc2ccc(F)cc2F)c1-c1ccc(F)cc1,-14.044
+Cc1c(C(=O)NC[C@]23C[C@H]4C[C@H](C[C@H](C4)C2)C3)cn(Cc2ccccc2)c1-c1ccccc1,-13.835

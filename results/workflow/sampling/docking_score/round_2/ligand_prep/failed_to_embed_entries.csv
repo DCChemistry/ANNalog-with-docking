@@ -1,0 +1,10 @@
+annalog,protonated,isomers
+c1c(-c2ccccc2)n(-c2cc(Cl)ccc2)cc1C(=O)N[C@]12C[C@H]3C[C@@H](C[C@H](C3)C1)C2,O=C(N[C@]12C[C@H]3C[C@@H](C[C@H](C3)C1)C2)c1cc(-c2ccccc2)n(-c2cccc(Cl)c2)c1,O=C(N[C@]12C[C@H]3C[C@@H](C[C@H](C3)C1)C2)c1cc(-c2ccccc2)n(-c2cccc(Cl)c2)c1
+O(n1cc(C(=O)N[C@]23C[C@@H]4[C@@](C)(CC2)C[C@H](C3)C4)c(C)c1-c1ccccc1)CCCCCO,Cc1c(C(=O)N[C@@]23CC[C@@]4(C)C[C@@H](C[C@@H]4C2)C3)cn(OCCCCCO)c1-c1ccccc1,Cc1c(C(=O)N[C@@]23CC[C@@]4(C)C[C@@H](C[C@@H]4C2)C3)cn(OCCCCCO)c1-c1ccccc1
+n1c(C(N2C[C@H]3C[C@H](OC(=O)C)[C@H](C2)C3)=O)c(C)c(-c2ccccc2)n1C(C)C,CC(=O)O[C@H]1C[C@H]2C[C@H]1CN(C(=O)c1nn(C(C)C)c(-c3ccccc3)c1C)C2,CC(=O)O[C@H]1C[C@H]2C[C@H]1CN(C(=O)c1nn(C(C)C)c(-c3ccccc3)c1C)C2
+C1[C@@]2(NC(c3nn(-c4ccccc4)c(-c4ccccc4)c3C)=O)C[C@H]3C[C@@H](C2)C[C@@H]1C3,Cc1c(C(=O)N[C@]23C[C@@H]4C[C@@H](C[C@@H](C4)C2)C3)nn(-c2ccccc2)c1-c1ccccc1,Cc1c(C(=O)N[C@]23C[C@@H]4C[C@@H](C[C@@H](C4)C2)C3)nn(-c2ccccc2)c1-c1ccccc1
+C1[C@@]2(NC(c3nn(C4CCCCC4)c(-c4ccc(C#N)cn4)c3C)=O)C[C@H]3C[C@@H](C2)C[C@@H]1C3,Cc1c(C(=O)N[C@]23C[C@@H]4C[C@@H](C[C@@H](C4)C2)C3)nn(C2CCCCC2)c1-c1ccc(C#N)cn1,Cc1c(C(=O)N[C@]23C[C@@H]4C[C@@H](C[C@@H](C4)C2)C3)nn(C2CCCCC2)c1-c1ccc(C#N)cn1
+C1[C@]2(NC(c3nn(C)c(-c4ccccc4)c3C)=O)CC[C@H]3[C@H]2OC(=O)C[C@@H]1C3,Cc1c(C(=O)N[C@@]23CC[C@@H]4C[C@@H](CC(=O)O[C@H]42)C3)nn(C)c1-c1ccccc1,Cc1c(C(=O)N[C@@]23CC[C@@H]4C[C@@H](CC(=O)O[C@H]42)C3)nn(C)c1-c1ccccc1
+C1[C@@H]2C[C@]3(NC(c4cc5cc(-c6cc(F)c(F)cc6)[nH]c5cc4)=O)C[C@H](C2)C[C@H]1C3,O=C(N[C@]12C[C@H]3C[C@@H](C[C@H](C3)C1)C2)c1ccc2[nH]c(-c3ccc(F)c(F)c3)cc2c1,O=C(N[C@]12C[C@H]3C[C@@H](C[C@H](C3)C1)C2)c1ccc2[nH]c(-c3ccc(F)c(F)c3)cc2c1
+C1[C@H]2C[C@@H]3C[C@@H](C[C@@]1(NC(=O)c1ccc4c(c1)Cc1ccccc1-4)[C@@H]3C2)S(=O)(=O)C,CS(=O)(=O)[C@H]1C[C@H]2C[C@H]3C[C@H]2[C@@](NC(=O)c2ccc4c(c2)Cc2ccccc2-4)(C3)C1,CS(=O)(=O)[C@H]1C[C@H]2C[C@H]3C[C@H]2[C@@](NC(=O)c2ccc4c(c2)Cc2ccccc2-4)(C3)C1
+C1[C@@]2(Nc3nn(Cc4csnc4-c4ccccc4)c(-c4ccccc4)n3)C[C@@H]3C[C@H]1C[C@@H](C3)C2,c1ccc(-c2nscc2Cn2nc(N[C@]34C[C@@H]5C[C@@H](C[C@@H](C5)C3)C4)nc2-c2ccccc2)cc1,c1ccc(-c2nscc2Cn2nc(N[C@]34C[C@@H]5C[C@@H](C[C@@H](C5)C3)C4)nc2-c2ccccc2)cc1

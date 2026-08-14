@@ -1,0 +1,8 @@
+annalog,protonated,isomers
+C1[C@@H]2C[C@]34CCN5C3=c3/ccc(Br)c/c3=N/C=C5[C@H]1C[C@@H](C4)C2,Brc1ccc2c(c1)=NC=C1[C@@H]3C[C@H]4C[C@@H](C3)C[C@]3(CCN1C=23)C4,Brc1ccc2c(c1)=NC=C1[C@@H]3C[C@H]4C[C@@H](C3)C[C@]3(CCN1C=23)C4
+C1C2=C[C@]34CCN(C3=c3/ccc4c(c3=N/C1)C2)OC,CON1CC[C@]23C=C4CCN=c5c(c2ccc5=C13)C4,CON1CC[C@]23C=C4CCN=c5c(c2ccc5=C13)C4
+C1CN/C2=c3/c(cc(Cl)cc3)=N\C=C/[C@@H]3C[C@@H]4C[C@]12C[C@@H](C4)C3,Clc1ccc2c(c1)=NC=C[C@H]1C[C@@H]3C[C@H](C1)C[C@@]1(CCNC=21)C3,Clc1ccc2/c(c1)=N/C=C/[C@H]1C[C@@H]3C[C@H](C1)C[C@@]1(CCN/C=21)C3
+C1CN/C2=C3/c(cc(OC)cc3)=N\C=C/[C@@H]3C[C@@H]4C[C@]12C[C@H](C4)C3,COc1ccc2/c(c1)=N\C=C/[C@H]1C[C@H]3C[C@H](C1)C[C@@]1(CCN/C=21)C3,COc1ccc2/c(c1)=N\C=C/[C@H]1C[C@H]3C[C@H](C1)C[C@@]1(CCN/C=21)C3
+C1CN/C2=C3/c(cc(OC)cc3)=N\C=C/[C@@H]3C[C@@H]4C[C@]12C[C@H](C4)C3,COc1ccc2c(c1)N/C=C\[C@H]1C[C@H]3C[C@H](C1)C[C@@]1(CCN=C21)C3,COc1ccc2c(c1)N/C=C\[C@H]1C[C@H]3C[C@H](C1)C[C@@]1(CCN=C21)C3
+C1CN(CCC(=O)OC)/C2=c3/c(cc(OC)cc3)=N\C=C/[C@@H]3C[C@@H]4C[C@]12C[C@@H](C4)C3,COC(=O)CCN1CC[C@]23C[C@@H]4C[C@H](\C=C/N=c5/cc(OC)cc/c5=C\12)C[C@@H](C4)C3,COC(=O)CCN1CC[C@]23C[C@@H]4C[C@@H](C[C@@H](\C=C/N=c5/cc(OC)cc/c5=C\12)C4)C3
+n1c(Cl)ccc2c1N/N=C\[C@@H]1C[C@@H]3C[C@@]4(CCN/C=C24)C[C@H](C1)C3,Clc1ccc2c(n1)=NNC[C@H]1C[C@@H]3C[C@H](C1)C[C@@]1(CCN=CC=21)C3,Clc1ccc2/c(n1)=N\NC[C@H]1C[C@@H]3C[C@H](C1)C[C@@]1(CCN=C/C=21)C3
