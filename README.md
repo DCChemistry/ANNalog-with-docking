@@ -9,7 +9,9 @@ pixi install
 Ensure that this command is run in the same directory as the `pixi.lock` and `pixi.toml` files.
 
 To install the separate conda environment needed for plotting, use the following command after creating a new conda environment (tested with Python 3.14.7):
-```conda install -c conda-forge rdkit umap-learn matplotlib seaborn pandas numpy scipy mdanalysis && pip install prolif starbars statannotations```
+```
+conda install -c conda-forge rdkit umap-learn matplotlib seaborn pandas numpy scipy mdanalysis && pip install prolif starbars statannotations
+```
 
 # Repository structure
 - The structures tested and used in this work are in the `Structure` directory. The structure used in the MSc thesis is `refined_cnr2_human_5ZTY_inactive.pdb`. 
