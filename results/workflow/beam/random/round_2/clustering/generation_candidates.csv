@@ -1,6 +1,0 @@
-smiles,docking_energy
-O=C(N[C@]12C[C@H]3C[C@H](C[C@H](C3)C1)C2)c1nnc(C2CCCCC2)[nH]1,-10.579
-O=C(c1nnc(-c2ccccc2)o1)N1CCCCC1,-9.157
-Cc1ccc(C(=O)N[C@]23C[C@H]4C[C@H](C[C@H](C4)C2)C3)o1,-9.537
-O=C(N[C@]12C[C@H]3C[C@H](C[C@H](C3)C1)C2)c1nc[nH]n1,-8.548
-Cn1nc(C(=O)NC2CCCCC2)cc1-c1ccccc1,-9.22

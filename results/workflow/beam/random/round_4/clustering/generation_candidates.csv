@@ -1,6 +1,0 @@
-smiles,docking_energy
-C1C2CC3CC1CC(C2)C3,-6.542
-[NH3+][C@]12C[C@H]3C[C@H](C[C@H](C3)C1)C2,-6.261
-C=CC(=O)N[C@]12C[C@H]3C[C@H](C[C@H](C3)C1)C2,-7.599
-CCCC(=O)N[C@]12C[C@H]3C[C@H](C[C@H](C3)C1)C2,-7.665
-O=C(N[C@]12C[C@H]3C[C@H](C[C@H](C3)C1)C2)c1ccon1,-8.638

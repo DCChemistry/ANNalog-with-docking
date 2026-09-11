@@ -1,7 +1,0 @@
-annalog,protonated,isomers
-c1(-c2c(C)n[nH]c2C(=O)N[C@]23C[C@@H]4C[C@H](C4)C[C@@H](C2)C3(C)C)c(F)cc(F)cc1,Cc1n[nH]c(C(=O)N[C@@]23C[C@H](C[C@H]4C[C@H](C2)C4)C3(C)C)c1-c1ccc(F)cc1F,Cc1n[nH]c(C(=O)N[C@@]23C[C@H](C[C@H]4C[C@H](C2)C4)C3(C)C)c1-c1ccc(F)cc1F
-c1(-c2c(C)n[nH]c2C(=O)N[C@]23C[C@@H]4C[C@H](C4)C[C@@H](C2)C3(C)C)c(F)cc(F)cc1,Cc1[nH]nc(C(=O)N[C@@]23C[C@H](C[C@H]4C[C@H](C2)C4)C3(C)C)c1-c1ccc(F)cc1F,Cc1[nH]nc(C(=O)N[C@@]23C[C@H](C[C@H]4C[C@H](C2)C4)C3(C)C)c1-c1ccc(F)cc1F
-N1(C)C(=O)[C@@H](c2ccnn2C(=O)N[C@]23C[C@H]4C[C@@H](C2)C[C@H](C4)C3)S(=O)(=O)C1,CN1CS(=O)(=O)[C@H](c2ccnn2C(=O)N[C@]23C[C@@H]4C[C@@H](C[C@@H](C4)C2)C3)C1=O,CN1CS(=O)(=O)[C@H](c2ccnn2C(=O)N[C@]23C[C@@H]4C[C@@H](C[C@@H](C4)C2)C3)C1=O
-C(c1ccc(Oc2ccccc2)cc1)(N[C@@]12C[C@H]3C[C@H](C[C@@H](C1)C3)C2)=O,O=C(N[C@]12C[C@@H]3C[C@@H](C[C@@H](C3)C1)C2)c1ccc(Oc2ccccc2)cc1,O=C(N[C@]12C[C@@H]3C[C@@H](C[C@@H](C3)C1)C2)c1ccc(Oc2ccccc2)cc1
-[C@H]12C[C@H]3C[C@@H]1C[C@@](CCNC(c1nn(CCC=C)c(-c4ccccc4)c1C)=O)(C2)C3,C=CCCn1nc(C(=O)NCC[C@]23C[C@H]4C[C@H](C[C@@H]4C2)C3)c(C)c1-c1ccccc1,C=CCCn1nc(C(=O)NCC[C@]23C[C@H]4C[C@H](C[C@@H]4C2)C3)c(C)c1-c1ccccc1
-[C@H]12C[C@H]3C[C@@H]1C[C@@](CCNC(c1oncc1)=O)(C2)C3,O=C(NCC[C@]12C[C@H]3C[C@H](C[C@@H]3C1)C2)c1ccno1,O=C(NCC[C@]12C[C@H]3C[C@H](C[C@@H]3C1)C2)c1ccno1

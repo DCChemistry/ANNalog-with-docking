@@ -1,6 +1,0 @@
-annalog,protonated,isomers
-O1[C@@]2(N(C)c3ccc4sc(CC)cc4n3)C[C@H]3C(=O)[C@H](C[C@@H]1C3)C2,CCc1cc2nc(N(C)[C@@]34C[C@H]5C[C@H](C[C@@H](C3)C5=O)O4)ccc2s1,CCc1cc2nc(N(C)[C@@]34C[C@H]5C[C@H](C[C@@H](C3)C5=O)O4)ccc2s1
-Cc1cc2nc(N[C@@H]3[C@H]4C[C@H]5C[C@H](C[C@H](C5=O)C3)[C@@H]4C(=O)NC)ccc2s1,CNC(=O)[C@H]1[C@@H]2C[C@@H]3C[C@@H]1[C@@H](Nc1ccc4sc(C)cc4n1)C[C@H](C2)C3=O,CNC(=O)[C@H]1[C@@H]2C[C@@H]3C[C@@H]1[C@@H](Nc1ccc4sc(C)cc4n1)C[C@H](C2)C3=O
-c1csc(O[C@]23C[C@H]4C[C@H](C[C@H](C2=O)[C@H]4C(=O)OCC)C3)c1,CCOC(=O)[C@H]1[C@@H]2C[C@@H]3C[C@@H]1C(=O)[C@@](Oc1cccs1)(C3)C2,CCOC(=O)[C@H]1[C@@H]2C[C@@H]3C[C@@H]1C(=O)[C@@](Oc1cccs1)(C3)C2
-c1cc(NC(=O)[C@@H]2[C@@H]3C[C@H]4C[C@H](C[C@H]24)C3)nc(-c2ccc(Cl)cc2)n1,O=C(Nc1ccnc(-c2ccc(Cl)cc2)n1)[C@@H]1[C@H]2C[C@@H]3C[C@H](C2)[C@@H]1C3,O=C(Nc1ccnc(-c2ccc(Cl)cc2)n1)[C@@H]1[C@H]2C[C@@H]3C[C@H](C2)[C@@H]1C3
-FC(F)(c1cc(NC(=O)[C@H]2[C@H]3C[C@H]4C[C@@H](C[C@H]2C4(F)F)C3)nc(-c2ccc(Cl)c(Cl)c2)n1)F,O=C(Nc1cc(C(F)(F)F)nc(-c2ccc(Cl)c(Cl)c2)n1)[C@H]1[C@@H]2C[C@H]3C[C@H](C2)C(F)(F)[C@@H]1C3,O=C(Nc1cc(C(F)(F)F)nc(-c2ccc(Cl)c(Cl)c2)n1)[C@H]1[C@@H]2C[C@H]3C[C@H](C2)C(F)(F)[C@@H]1C3

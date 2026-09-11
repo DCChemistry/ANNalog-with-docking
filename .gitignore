@@ -12,7 +12,7 @@ Structures/binding_site_water
 Structures/Scharf_et_al_2025_structures
 *.pse
 .DS_Store
-results_*
+results*
 ligand_pdbqts
 local_results
 

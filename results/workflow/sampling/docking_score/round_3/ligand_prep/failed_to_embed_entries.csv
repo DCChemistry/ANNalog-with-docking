@@ -1,7 +1,0 @@
-annalog,protonated,isomers
-c1ccccc1-c1c(C)c(C(N[C@H]2C[C@@H]3C[C@H](C3)C2)=O)cn1Cc1ccccc1,Cc1c(C(=O)N[C@H]2C[C@H]3C[C@@H](C3)C2)cn(Cc2ccccc2)c1-c1ccccc1,Cc1c(C(=O)N[C@H]2C[C@H]3C[C@@H](C3)C2)cn(Cc2ccccc2)c1-c1ccccc1
-n1(-c2cc(Cl)ccc2)nc(C(N[C@@]23C[C@@H]4C[C@H](C2)C[C@@H](C4)C3)=O)cn1,O=C(N[C@]12C[C@@H]3C[C@@H](C[C@@H](C3)C1)C2)c1cnn(-c2cccc(Cl)c2)n1,O=C(N[C@]12C[C@@H]3C[C@@H](C[C@@H](C3)C1)C2)c1cnn(-c2cccc(Cl)c2)n1
-[C@H]12[C@H](C)[C@@H]3C[C@](NC(=O)c4n[nH]c(-c5ccccc5)c4CC)(C[C@H](C3)C1)C2,CCc1c(C(=O)N[C@]23C[C@@H]4C[C@H](C[C@@H](C2)[C@@H]4C)C3)n[nH]c1-c1ccccc1,CCc1c(C(=O)N[C@]23C[C@@H]4C[C@H](C[C@@H](C2)[C@@H]4C)C3)n[nH]c1-c1ccccc1
-[C@H]12[C@H](C)[C@@H]3C[C@](NC(=O)c4n[nH]c(-c5ccccc5)c4CC)(C[C@H](C3)C1)C2,CCc1c(-c2ccccc2)n[nH]c1C(=O)N[C@]12C[C@@H]3C[C@H](C[C@@H](C1)[C@@H]3C)C2,CCc1c(-c2ccccc2)n[nH]c1C(=O)N[C@]12C[C@@H]3C[C@H](C[C@@H](C1)[C@@H]3C)C2
-C1[C@](C)(N2C(=O)c3c(C)c(-c4ccccc4)n(CCc4ccccc4)n3)C[C@@H]3N(C(NC4(C)CC4)=O)C[C@H]1[C@H]2C3,Cc1c(C(=O)N2[C@@H]3C[C@@H]4C[C@]2(C)C[C@H]3CN4C(=O)NC2(C)CC2)nn(CCc2ccccc2)c1-c1ccccc1,Cc1c(C(=O)N2[C@@H]3C[C@@H]4C[C@]2(C)C[C@H]3CN4C(=O)NC2(C)CC2)nn(CCc2ccccc2)c1-c1ccccc1
-O=C(c1cn(CC2CC2)c(-c2ccccc2)c1C)N[C@@]12C[C@@H]3[C@@](C)(C[C@@H](C1)C3)CC2,Cc1c(C(=O)N[C@@]23CC[C@]4(C)C[C@H](C[C@@H]4C2)C3)cn(CC2CC2)c1-c1ccccc1,Cc1c(C(=O)N[C@@]23CC[C@]4(C)C[C@H](C[C@@H]4C2)C3)cn(CC2CC2)c1-c1ccccc1

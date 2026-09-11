@@ -1,5 +1,0 @@
-O=C(N[C@]12C[C@H]3C[C@H](C[C@H](C3)C1)C2)c1cc(-c2ccccc2)n(Cc2ccccc2)n1
-O=C(N[C@]12C[C@H]3C[C@H](C[C@H](C3)C1)C2)c1ccc(-c2ccccc2)cc1
-Cc1cc(C(=O)N[C@]23C[C@H]4C[C@H](C[C@H](C4)C2)C3)ncc1-c1ccccc1
-Cc1c(C(=O)N[C@]23C[C@H]4C[C@H](C[C@H](C4)C2)C3)nn(CC2CC2)c1-c1ccccc1
-Cc1c(C(=O)N[C@]23C[C@H]4C[C@H](C[C@H](C4)C2)C3)nn(CC(C)C)c1-c1ccccc1
