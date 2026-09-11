@@ -1,0 +1,72 @@
+HEADER    
+TITLE     MDANALYSIS FRAME 0: Created by PDBWriter
+CRYST1    1.000    1.000    1.000  90.00  90.00  90.00 P 1           1
+REMARK     285 UNITARY VALUES FOR THE UNIT CELL AUTOMATICALLY SET
+REMARK     285 BY MDANALYSIS PDBWRITER BECAUSE UNIT CELL INFORMATION
+REMARK     285 WAS MISSING.
+REMARK     285 PROTEIN DATA BANK CONVENTIONS REQUIRE THAT
+REMARK     285 CRYST1 RECORD IS INCLUDED, BUT THE VALUES ON
+REMARK     285 THIS RECORD ARE MEANINGLESS.
+HETATM    1  CAA 9JU A 460       6.965  -4.566 -52.049  1.00  0.00      A    C  
+HETATM    2  CAB 9JU A 460       7.108  -4.217 -50.703  1.00  0.00      A    C  
+HETATM    3  CAC 9JU A 460       7.627  -2.965 -50.350  1.00  0.00      A    C  
+HETATM    4  CAD 9JU A 460       8.009  -2.059 -51.346  1.00  0.00      A    C  
+HETATM    5  CAE 9JU A 460       7.862  -2.396 -52.704  1.00  0.00      A    C  
+HETATM    6  CAF 9JU A 460       7.334  -3.651 -53.045  1.00  0.00      A    C  
+HETATM    7  CAG 9JU A 460       8.234  -1.534 -53.669  1.00  0.00      A    C  
+HETATM    8  CAJ 9JU A 460       8.263   0.075 -55.070  1.00  0.00      A    C  
+HETATM    9  CAK 9JU A 460       7.503  -0.525 -54.143  1.00  0.00      A    C  
+HETATM   10  CAL 9JU A 460       6.074  -0.168 -53.686  1.00  0.00      A    C  
+HETATM   11  CAM 9JU A 460       8.007   1.148 -55.865  1.00  0.00      A    C  
+HETATM   12  CAN 9JU A 460      10.645  -2.398 -54.172  1.00  0.00      A    C  
+HETATM   13  CAO 9JU A 460      10.472  -3.801 -54.767  1.00  0.00      A    C  
+HETATM   14  CAP 9JU A 460      10.883  -3.804 -56.237  1.00  0.00      A    C  
+HETATM   15  CAQ 9JU A 460      11.560  -5.134 -56.578  1.00  0.00      A    C  
+HETATM   16  CAR 9JU A 460      12.302  -5.005 -57.913  1.00  0.00      A    C  
+HETATM   17  CAV 9JU A 460       9.214   2.718 -57.517  1.00  0.00      A    C  
+HETATM   18  CAW 9JU A 460       8.372   2.466 -58.835  1.00  0.00      A    C  
+HETATM   19  CAX 9JU A 460       8.612   3.656 -59.851  1.00  0.00      A    C  
+HETATM   20  CAY 9JU A 460      10.138   3.713 -60.222  1.00  0.00      A    C  
+HETATM   21  CAZ 9JU A 460      10.995   3.975 -58.930  1.00  0.00      A    C  
+HETATM   22  NAH 9JU A 460       9.414  -1.536 -54.315  1.00  0.00      A    N  
+HETATM   23  NAI 9JU A 460       9.425  -0.595 -55.104  1.00  0.00      A    N  
+HETATM   24  NAT 9JU A 460       9.094   1.582 -56.563  1.00  0.00      A    N  
+HETATM   25  OAS 9JU A 460      13.585  -4.397 -57.705  1.00  0.00      A    O  
+HETATM   26  OAU 9JU A 460       6.882   1.646 -55.968  1.00  0.00      A    O  
+HETATM   27  CBA 9JU A 460      10.745   2.800 -57.912  1.00  0.00      A    C  
+HETATM   28  CBB 9JU A 460      10.560   5.335 -58.268  1.00  0.00      A    C  
+HETATM   29  CBC 9JU A 460       9.035   5.289 -57.885  1.00  0.00      A    C  
+HETATM   30  CBD 9JU A 460       8.787   4.111 -56.859  1.00  0.00      A    C  
+HETATM   31  CBE 9JU A 460       8.191   5.032 -59.186  1.00  0.00      A    C  
+CONECT    1    2    6
+CONECT    2    1    3
+CONECT    3    2    4
+CONECT    4    3    5
+CONECT    5    4    6    7
+CONECT    6    1    5
+CONECT    7    5    9   22
+CONECT    8    9   11   23
+CONECT    9    7    8   10
+CONECT   10    9
+CONECT   11    8   24   26
+CONECT   12   13   22
+CONECT   13   12   14
+CONECT   14   13   15
+CONECT   15   14   16
+CONECT   16   15   25
+CONECT   17   18   24   27   30
+CONECT   18   17   19
+CONECT   19   18   20   31
+CONECT   20   19   21
+CONECT   21   20   27   28
+CONECT   22    7   12   23
+CONECT   23    8   22
+CONECT   24   11   17
+CONECT   25   16
+CONECT   26   11
+CONECT   27   17   21
+CONECT   28   21   29
+CONECT   29   28   30   31
+CONECT   30   17   29
+CONECT   31   19   29
+END
