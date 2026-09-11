@@ -33,10 +33,10 @@ input_protein_structure_path = os.path.join("Structures", "refined_cnr2_human_5Z
 
 # protein preparation
 print("Preparing protein structure for docking...")
-if(not os.path.exists("results/workflow/protein/_refined_cnr2_human_5ZTY_inactive.pdbqt")):
+if(not os.path.exists(os.path.join(workflow_results_dir, "protein", "_refined_cnr2_human_5ZTY_inactive.pdbqt"))):
     protein_pdbqt_path = prepare_protein(input_protein_structure_path, workflow_results_dir, pH=pH)
 else:
-    protein_pdbqt_path = "results/workflow/protein/_refined_cnr2_human_5ZTY_inactive.pdbqt"
+    protein_pdbqt_path = os.path.join(workflow_results_dir, "protein", "_refined_cnr2_human_5ZTY_inactive.pdbqt")
 
 v=Vina(sf_name="vina", verbosity=0) # using the default vina scoring function, and setting the verbosity to 0 to silence Vina output
 v=vina_setup_receptor(v, input_protein_structure_path, protein_pdbqt_path, grid_buffer=grid_buffer)
