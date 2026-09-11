@@ -13,10 +13,17 @@ To install the separate conda environment needed for plotting, use the following
 conda install -c conda-forge rdkit umap-learn matplotlib seaborn pandas numpy scipy mdanalysis && pip install prolif starbars statannotations
 ```
 
+# Running the workflow
+To run the workflow after installing the pixi environment, use the following command:
+```
+pixi run python main.py
+```
+
 # Repository structure
 - The structures tested and used in this work are in the `Structure` directory. The structure used in the MSc thesis is `refined_cnr2_human_5ZTY_inactive.pdb`. 
 - The `redocking_active.ipynb` and `redocking_inactive.ipynb` files are the notebooks used for redocking cognate ligands for the refined structures from the GPCRdb of an inactive CB2 structure (PDB ID: 5ZTY) and active structure (PDB ID: 8GUR).
-- The notebook used to develop and run the generation-docking workflow is `workflow_development.ipynb`.
+- The notebook used to develop the generation-docking workflow is `workflow_development.ipynb`.
+- The files required to run the workflow are `main.py` and `annalog_with_docking_functions.py`. `main.py` is the script that was used to run the workflow on a linux compute cluster, and `annalog_with_docking_functions.py` contains the functions required for `main.py` to run (the functions from `annalog_with_docking_functions.py` are imported into `main.py`).
 - The `known_cb2_ligands` directory contains `.csv` files that contains information on known CB2 ligands from the ChEMBL database. The files used to build the known ligand set used for analysis in the MSc thesis are `CHEMBL253_CB2_Homo_sapiens_IC50_170726.csv` and `CHEMBL253_CB2_Homo_sapiens_Ki_140726.csv`, so as to focus on antagonists like the 5ZTY cognate ligand, AM10257, which is a potent CB2 antagonist. As the filenames suggest, this ChEMBL data combines Ki and IC50 data.
 - `redocking` contains the results from the `redocking_active.ipynb` and `redocking_inactive.ipynb` files. The inactive cognate ligand pose is used for some plotting in `plotting_results.ipynb`.
 - `PLIP_results` contains .pse files obtained from [PLIP](https://plip-tool.biotec.tu-dresden.de/plip-web/plip/index) of the experimental cognate ligand of PDB 5ZTY, and the docked poses of the best scoring beam search-generated ligand and the best scoring multinomial sampling-generated ligand. These show the protein-ligand interactions as analysed by PLIP.
